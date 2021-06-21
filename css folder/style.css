@@ -1,0 +1,150 @@
+*{margin:0;padding:0;}
+body{
+	background:#eee;
+	font-family: 'Roboto', sans-serif;
+}
+.container{
+	max-width:1000px;
+	background:#E4F9F5;
+	margin:0 auto;
+	padding:30px;
+	
+}
+header{
+	
+}
+.pofile-img{
+	width:100px;
+	height:120px;
+	border:2px solid white;
+	border-radius:50px;
+	float:left;
+	
+	
+}
+.headerbio{
+	float:left;
+	padding:30px;
+	
+}
+h1,h2,h3,h4,h5,h6{
+	color:#119998;
+}
+.header-contact{
+	float:right;
+	padding:30px;
+}
+.header-contact a{
+	text-decoration:none;
+	color:#119998;
+	font-weight:bold;
+	
+}
+.header-contact a:hover{
+	text-decoration:underline;
+	color:tomato;
+	
+	
+}
+.div-clear{
+	clear:both;
+}
+
+hr{
+	border:3px solid black;
+	margin:20px;
+	width:none;
+	border-bottom:none;
+}
+/*---------
+personal section start
+---------*/
+.personal-section{
+	
+}
+.left-div{
+	width:30%;
+	float:left;
+	
+}
+.right-div{
+	width:70%;
+	float:left;
+	
+}
+.common-hr{
+	border:1px solid black;
+	border-bottom:none;
+}
+.div-clear{
+	clear:both;
+}
+	/*---------
+personal section end
+---------*/
+.div-clear{
+	clear:both;
+}
+/*---------
+educatio section start
+---------*/
+  .education-template-right{
+	  float: left;
+	  width:63%;
+	 
+	  
+ }
+  .education-template-left{
+	  float:right;
+	  
+  }
+
+/*---------
+educatio section start
+---------*/
+/*---------------------
+referance section start
+---------------------*/
+ .referance-template-left{
+	  float: left;
+	  width:63%;
+	  
+	  
+ }
+  .referance-template-right{
+	  float:right;
+	  
+	  
+  }
+
+/*---------------------
+referance section end
+---------------------*/
+/*---------------------
+fotter section start
+---------------------*/
+.bottom-conteiner {
+	background-color:black;
+	text-align:center;
+	padding:10px;
+}
+.bottom-conteiner a{
+	text-decoration:none;
+	color:white;
+	margin:20px;
+}
+.bottom-conteiner p{
+	color:white;
+	margin-top:20px;
+	margin-bottom:10px;
+	
+	
+}
+
+/*---------------------
+fotter section end
+---------------------*/
+
+
+
+
